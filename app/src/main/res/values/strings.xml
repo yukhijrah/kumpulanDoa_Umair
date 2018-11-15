@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kumpulan Doa</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_doa">Doa</string>
+    <string name="menu_profile">Profile</string>
+    <string name="namalengkap">Umair</string>
+    <string name="ttl">Jakarta, 10 July 1998</string>
+    <string name="prodi">Informatika</string>
+    <string name="nim">0110216061</string>
+    <string name="kampus">STT Nurul Fikri</string>
+</resources>
