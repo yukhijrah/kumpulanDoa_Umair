@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import decloudius.app.kumpulandoa.R;git clone
+import decloudius.app.kumpulandoa.R;
 
 /**
  * Created by Umair on 11/1/2018.

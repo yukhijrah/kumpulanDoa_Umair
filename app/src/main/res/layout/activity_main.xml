@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:padding="6dp"
+        android:gravity="center"
         android:layout_alignParentBottom="true"
         android:background="@android:color/black">
 
@@ -27,18 +28,21 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/menu_home"
+            android:gravity="center"
             android:id="@+id/btn_home"/>
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/menu_doa"
+            android:gravity="center"
             android:id="@+id/btn_doa"/>
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/menu_profile"
+            android:gravity="center"
             android:id="@+id/btn_profile"/>
 
     </LinearLayout>

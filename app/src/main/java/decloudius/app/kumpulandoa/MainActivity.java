@@ -29,18 +29,12 @@ public class MainActivity extends AppCompatActivity{
 
     private ContainerAdapter adapter;
 
-    private List<ModelAdzan> adzans = new ArrayList<>();
-    private RecyclerView recyclerViewAdzan;
-    private RecyclerView recyclerViewDoa;
-
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        recyclerViewAdzan = (RecyclerView)findViewById(R.id.lst_adzan);
-        recyclerViewDoa = (RecyclerView)findViewById(R.id.lst_doa);
 
         //casting object(view)
         vpMain = (ViewPager) findViewById(R.id.view_pager_main);
